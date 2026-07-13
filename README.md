@@ -96,7 +96,3 @@ The frontend UI will open automatically in your web browser.
 * **Frontend:** Streamlit, Requests
 * **Backend:** FastAPI, Pydantic
 * **LLM Integration:** Google GenAI SDK (`gemini-2.5-flash`)
-
-```
-
-```
